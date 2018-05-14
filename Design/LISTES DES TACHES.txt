@@ -1,0 +1,11 @@
+-design score
+	-importance de chaque planète + distance  + nb de points à chaque place
+	-moy des nb pts/dialogue/planète pour secretaire
+	-moy des nb pts/dialogue/planète pour ra ou mail
+	-évaluation carnet de bord en fonction des rdv
+	-négociations lors du rdv (30min sur la planète lors de la négo)
+
+-création des dialogues dans l'arborescence
+
+-
+
